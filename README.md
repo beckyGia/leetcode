@@ -4,6 +4,7 @@
 
 | #   | Title                                                                                                     | Solution                                                                      | Difficulty |
 | --- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------- |
+| 27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [JavaScript](./algorithms/JavaScript/removeElement/main.js)                   | Easy       |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./algorithms/JavaScript/removeDuplicatesFromSortedArray/main.js) | Easy       |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [JavaScript](./algorithms/JavaScript/mergeTwoSortedList/main.js)              | Easy       |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                     | [JavaScript](./algorithms/JavaScript/validParentheses/main.js)                | Easy       |
